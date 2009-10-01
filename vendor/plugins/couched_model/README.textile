@@ -1,0 +1,41 @@
+h1. Couched Model
+
+A simple model that further wraps couchrest, particularly CouchRest::ExtendedDocument, in order to make model life just that much easier for me. This will eventually be the base to my ActiveRecord-Couchdb-Adaptor.
+
+h1. Example
+
+<pre><code>
+class Note < CouchedModel
+  property :content
+  property :priority
+end
+
+# ... Somewhere down the line
+
+Note.new(:content => "my first note", :priority => 1).save
+</code></pre>
+
+h2. Also with multiple property adding!
+
+<pre><code>
+class Note < CouchedModel
+  property_accessors :content, :priority
+end
+</code></pre>
+
+This does not support all the cast_as stuff that ExtendedDocument does, but that's in the works.
+
+h1. Testing
+
+I've added cucumber tests for those interested in forking etc. Just run:
+
+<code>rake cucumber</code>
+
+To see the features run.
+
+h1. To Be Added
+
+This is not even close to where I want to finally be. But I'm not really set on the specs yet. Here's a very short list of my next todo's:
+
+# Dynamic property adding
+# Fixing property_accessors to accept property options

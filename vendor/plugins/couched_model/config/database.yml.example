@@ -1,0 +1,8 @@
+test: &TEST
+  adapter: mysql # not really used but ActiveRecord acn't handle the truth
+  database: couched_model_test
+  host: 127.0.0.1
+  port: 5984
+
+cucumber:
+  <<: *TEST
