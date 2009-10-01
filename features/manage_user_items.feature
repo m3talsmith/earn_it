@@ -33,6 +33,7 @@ Feature Manage user items
     
   Scenario: List all Items
     When I go to "the items page"
+    Then I should see a list of "items" with a length of at least "2"
     
   Scenario: List all Cost Items
   Scenario: List all Reward Items
