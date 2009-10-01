@@ -1,0 +1,28 @@
+%html
+  %head
+    %title Earn It!
+  %body
+    #wrapper
+      #header
+        %h1 Earn It!
+        %h2 just another way to order your life
+        
+        %ul#navigation
+          %li= link_to "home", root_path
+          %li= link_to "items", items_path
+      #messages
+        = yield :messages
+      #page
+        #page_header
+          #page_title
+            = yield :page_title
+          #page_actions
+            = yield :page_actions
+        #page_content
+          = yield :page_content
+        #misc
+          = yield
+      #sidebar
+        = yield :sidebar
+          
+        

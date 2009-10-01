@@ -1,0 +1,15 @@
+.group
+  = f.label :title
+  = f.text_field :title
+
+.group
+  = f.label :points
+  = f.text_field :points
+
+.group
+  = f.label :time_increment
+  = f.text_field :time_increment
+
+.group
+  = f.submit "submit"
+  = link_to "cancel", items_path

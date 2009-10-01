@@ -42,6 +42,9 @@ Rails::Initializer.run do |config|
   
   config.plugins = [ :haml, :all ]
   
+  # not working for some reason I'm too lazy to debug right now
+  # config.frameworks -= [ :active_record ]
+  
   # Set Time.zone default to the specified zone and make Active Record auto-convert to this zone.
   # Run "rake -D time" for a list of tasks for finding time zone names.
   config.time_zone = 'UTC'

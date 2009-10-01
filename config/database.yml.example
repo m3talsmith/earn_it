@@ -1,17 +1,17 @@
 development:
-  adapter: mysql # not really used
+  adapter: sqlite3 # not really used
   database: earn_it_development
   host: 127.0.0.1
   port: 5984
 
 test: &TEST
-  adapter: mysql # not really used
+  adapter: sqlite3 # not really used
   database: earn_it_test
   host: 127.0.0.1
   port: 5984
 
 production:
-  adapter: mysql # not really used
+  adapter: sqlite3 # not really used
   database: earn_it_production
   host: 127.0.0.1
   port: 5984

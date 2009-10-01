@@ -1,0 +1,11 @@
+- render_notices
+
+- content_for :sidebar do
+  = render :partial => "items/sidebar"
+  
+- content_for :page_title do
+  %h1 New Item
+
+- content_for :page_content do
+  - form_for :item, @item, :url => items_path, :html => {:method => :post} do |f|
+    = render :partial => "items/form", :locals => {:f => f}
