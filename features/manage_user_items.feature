@@ -3,6 +3,12 @@ Feature Manage user items
   As a registered or an anonymous user
   I want to be able to add cost/reward items, list them, activate/deactivate them, and edit them
   
+  Background:
+    Given the following "Item":
+      | Title     | Points | Time Increment |
+      | Cost Item | -4     | 120            |
+      | Gain Item | 8      | 60             |
+  
   Scenario: Add a Cost Item
     When I go to "the items page"
     And I follow "add an item"
@@ -26,6 +32,8 @@ Feature Manage user items
     Then I should see "You can now Finish test scenario for Earn It! for a gain of 2 points per 15 minutes of time spent"
     
   Scenario: List all Items
+    When I go to "the items page"
+    
   Scenario: List all Cost Items
   Scenario: List all Reward Items
   Scenario: Deactivate an Item
