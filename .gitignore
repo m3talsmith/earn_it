@@ -1,4 +1,5 @@
 .DS_Store
+earn_it_*
 app/stylesheets/.sass-cache
 config/*.yml
 db/*.sqlite3
