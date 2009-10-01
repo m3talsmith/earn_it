@@ -30,7 +30,7 @@ Cucumber::Rails::World.use_transactional_fixtures = true
 # pages, more or less in the same way your application would behave in the
 # default production environment. It's not recommended to do this for all
 # of your scenarions, as this makes it hard to discover errors in your application.
-ActionController::Base.allow_rescue = false
+# ActionController::Base.allow_rescue = false
 
 require 'cucumber'
 # Comment out the next line if you don't want Cucumber Unicode support
