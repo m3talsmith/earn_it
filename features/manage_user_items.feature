@@ -15,6 +15,16 @@ Feature Manage user items
     Then I should see "You can now Play the XBox 360 for a cost of 2 points per 30 minutes of time spent"
     
   Scenario: Add a Reward Item
+    When I go to "the items page"
+    And I follow "add an item"
+    Then I should see "New Item"
+    When I fill in the following:
+      | Title          | Finish test scenario for Earn It! |
+      | Points         | 2                                 |
+      | Time Increment | 15                                |
+    And I press "submit"
+    Then I should see "You can now Finish test scenario for Earn It! for a gain of 2 points per 15 minutes of time spent"
+    
   Scenario: List all Items
   Scenario: List all Cost Items
   Scenario: List all Reward Items
