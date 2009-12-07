@@ -8,7 +8,6 @@
 
 #import "RootViewController.h"
 
-
 @implementation RootViewController
 
 @synthesize fetchedResultsController, managedObjectContext;
@@ -20,7 +19,7 @@
 	// Set up the edit and add buttons.
     self.navigationItem.leftBarButtonItem = self.editButtonItem;
     
-    UIBarButtonItem *addButton = [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemAdd target:self action:@selector(insertNewObject)];
+    UIBarButtonItem *addButton = [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemAdd target:self action:@selector(insertNewUser)];
     self.navigationItem.rightBarButtonItem = addButton;
     [addButton release];
 	
@@ -31,15 +30,20 @@
 }
 
 
-- (void)insertNewObject {
+- (void)insertNewUser {
+	self.firstInsert = [self.fetchedResultsController.sections count] == 0;
 	
 	// Create a new instance of the entity managed by the fetched results controller.
 	NSManagedObjectContext *context = [fetchedResultsController managedObjectContext];
 	NSEntityDescription *entity = [[fetchedResultsController fetchRequest] entity];
-	NSManagedObject *newManagedObject = [NSEntityDescription insertNewObjectForEntityForName:[entity name] inManagedObjectContext:context];
+	User *user = [NSEntityDescription insertNewObjectForEntityForName:[entity name] inManagedObjectContext:context;
+	
+	[user setValue:@"User" forKey:@"name"];
+				  
+	// NSManagedObject *newManagedObject = [NSEntityDescription insertNewObjectForEntityForName:[entity name] inManagedObjectContext:context];
 	
 	// If appropriate, configure the new managed object.
-	[newManagedObject setValue:[NSDate date] forKey:@"timeStamp"];
+	// [newManagedObject setValue:[NSDate date] forKey:@"timeStamp"];
 	
 	// Save the context.
     NSError *error;
@@ -105,7 +109,7 @@
     return [sectionInfo numberOfObjects];
 }
 
--(void)configureCell:(UITableViewCell *)cell withUser:(User *)user {
+- (void)configureCell:(UITableViewCell *)cell withUser:(User *)user {
 	cell.textLabel.text = user.name;
 	cell.detailTextLabel.text = user.name;
 }

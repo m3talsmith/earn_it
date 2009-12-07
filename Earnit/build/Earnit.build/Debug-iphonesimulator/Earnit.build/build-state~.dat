@@ -1,0 +1,446 @@
+TEarnit
+v7
+r0
+t277572627.781961
+cCheck dependencies
+cProcessInfoPlistFile /Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator/Earnit.app/Info.plist Earnit-Info.plist
+cCompileXIB /Users/michaelc/Development/opensource/earn_it/Earnit/MainWindow.xib
+cCompileXIB /Users/michaelc/Development/opensource/earn_it/Earnit/RootViewController.xib
+cProcessPCH /var/folders/ZA/ZAm5NPjrFj4FEWVCm4z9SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Earnit_Prefix-gezpheodqzopyqcfwhpqfwhrdgjr/Earnit_Prefix.pch.gch Earnit_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelCompile /Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator/Earnit.app/Earnit.mom /Users/michaelc/Development/opensource/earn_it/Earnit/Earnit.xcdatamodel
+cCompileC build/Earnit.build/Debug-iphonesimulator/Earnit.build/Objects-normal/i386/main.o /Users/michaelc/Development/opensource/earn_it/Earnit/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Earnit.build/Debug-iphonesimulator/Earnit.build/Objects-normal/i386/EarnitAppDelegate.o /Users/michaelc/Development/opensource/earn_it/Earnit/Classes/EarnitAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Earnit.build/Debug-iphonesimulator/Earnit.build/Objects-normal/i386/RootViewController.o /Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Earnit.build/Debug-iphonesimulator/Earnit.build/Objects-normal/i386/Point.o /Users/michaelc/Development/opensource/earn_it/Earnit/Point.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Earnit.build/Debug-iphonesimulator/Earnit.build/Objects-normal/i386/User.o /Users/michaelc/Development/opensource/earn_it/Earnit/User.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004ABE051D00000000000000EE
+t1253967133
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004A0BABDE0000000000180310
+t1242278878
+s1573648
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004A0BABD0000000000000046B
+t1242278864
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026DB00
+t1242278438
+s2546432
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000260C20
+t1242278711
+s2493472
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001432D80
+t1242349407
+s21179776
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/Availability.h
+c000000004A0BAC5D00000000000019D8
+t1242279005
+s6616
+
+N/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/EarnitAppDelegate.h
+c000000004ADA881E00000000000003DB
+t1255835678
+s987
+
+N/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/EarnitAppDelegate.m
+c000000004ADA881E000000000000106A
+t1255835678
+s4202
+i"EarnitAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.h
+c000000004ADA881E0000000000000208
+t1255835678
+s520
+
+N/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m
+c000000004ADA992D0000000000001C8B
+t1255840045
+s7307
+i"RootViewController.h"
+
+N/Users/michaelc/Development/opensource/earn_it/Earnit/Earnit.xcdatamodel
+c000000004ADA94170000000000000088
+t1255838743
+s136
+
+N/Users/michaelc/Development/opensource/earn_it/Earnit/Earnit_Prefix.pch
+c000000004ADA881E0000000000000161
+t1255835678
+s353
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/michaelc/Development/opensource/earn_it/Earnit/MainWindow.xib
+c000000004ADA881E0000000000002C24
+t1255835678
+s11300
+
+N/Users/michaelc/Development/opensource/earn_it/Earnit/Point.h
+c000000004ADA94E00000000000000244
+t1255838944
+s580
+i<CoreData/CoreData.h>
+
+N/Users/michaelc/Development/opensource/earn_it/Earnit/Point.m
+c000000004ADA94E00000000000000103
+t1255838944
+s259
+i"Point.h"
+i"User.h"
+
+N/Users/michaelc/Development/opensource/earn_it/Earnit/RootViewController.xib
+c000000004ADA881E0000000000001F54
+t1255835678
+s8020
+
+N/Users/michaelc/Development/opensource/earn_it/Earnit/User.h
+c000000004ADA94E0000000000000024B
+t1255838944
+s587
+i<CoreData/CoreData.h>
+
+N/Users/michaelc/Development/opensource/earn_it/Earnit/User.m
+c000000004ADA94E00000000000000106
+t1255838944
+s262
+i"User.h"
+i"Point.h"
+
+N/Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator/Earnit.app
+t2
+s0
+
+N/Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator/Earnit.app.dSYM
+t2
+s0
+
+N/Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator/Earnit.app/Earnit
+t2
+s0
+
+N/Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator/Earnit.app/Earnit.mom
+t1255879827
+s2044
+
+N/Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator/Earnit.app/Info.plist
+t1255879821
+s558
+
+N/Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator/Earnit.app/MainWindow.nib
+t1255879824
+s2011
+
+N/Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator/Earnit.app/PkgInfo
+t1255879821
+s8
+
+N/Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator/Earnit.app/RootViewController.nib
+t1255879824
+s1432
+
+N/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Objects-normal/i386/Earnit.LinkFileList
+c000000004ADB348D00000000000002BF
+t1255879821
+s703
+
+N/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Objects-normal/i386/EarnitAppDelegate.o
+t1255879827
+s51444
+
+N/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Objects-normal/i386/Point.o
+t2
+s0
+
+N/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Objects-normal/i386/RootViewController.o
+t2
+s0
+
+N/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Objects-normal/i386/User.o
+t2
+s0
+
+N/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Objects-normal/i386/main.o
+t1255879827
+s5980
+
+N/Users/michaelc/Development/opensource/earn_it/Earnit/main.m
+c000000004ADA881E0000000000000173
+t1255835678
+s371
+i<UIKit/UIKit.h>
+
+N/var/folders/ZA/ZAm5NPjrFj4FEWVCm4z9SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Earnit_Prefix-gezpheodqzopyqcfwhpqfwhrdgjr/Earnit_Prefix.pch.gch
+t1255879827
+s13809840
+
+NEarnit-Info.plist
+c000000004ADA881E000000000000038D
+t1255835678
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies277572621#277572621#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/Earnit.build/Debug-iphonesimulator/Earnit.build/Objects-normal/i386/EarnitAppDelegate.o /Users/michaelc/Development/opensource/earn_it/Earnit/Classes/EarnitAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277572627.540793
+e277572627.712693
+r1
+xCompileC
+xbuild/Earnit.build/Debug-iphonesimulator/Earnit.build/Objects-normal/i386/EarnitAppDelegate.o
+x/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/EarnitAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/michaelc/Development/opensource/earn_it/Earnit/Classes/EarnitAppDelegate.m277572627#277572627#0(0"0(0#0#81"/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/EarnitAppDelegate.m4300885448#2036"    cd /Users/michaelc/Development/opensource/earn_it/Earnit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Earnit-generated-files.hmap -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Earnit-own-target-headers.hmap -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Earnit-all-target-headers.hmap -iquote /Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Earnit-project-headers.hmap -F/Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator/include -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/DerivedSources/i386 -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/DerivedSources -include /var/folders/ZA/ZAm5NPjrFj4FEWVCm4z9SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Earnit_Prefix-gezpheodqzopyqcfwhpqfwhrdgjr/Earnit_Prefix.pch -c /Users/michaelc/Development/opensource/earn_it/Earnit/Classes/EarnitAppDelegate.m -o /Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Objects-normal/i386/EarnitAppDelegate.o0#
+
+CCompileC build/Earnit.build/Debug-iphonesimulator/Earnit.build/Objects-normal/i386/Point.o /Users/michaelc/Development/opensource/earn_it/Earnit/Point.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277572627.663797
+e277572627.738333
+r0
+xCompileC
+xbuild/Earnit.build/Debug-iphonesimulator/Earnit.build/Objects-normal/i386/Point.o
+x/Users/michaelc/Development/opensource/earn_it/Earnit/Point.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/michaelc/Development/opensource/earn_it/Earnit/Point.m:9:
+o/Users/michaelc/Development/opensource/earn_it/Earnit/Point.h:14: error: 'Point' redeclared as different kind of symbol
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/MacTypes.h:522: error: previous declaration of 'Point'
+o/Users/michaelc/Development/opensource/earn_it/Earnit/Point.h:15: error: redefinition of 'struct Point'
+lSLF07#2@69"Compile /Users/michaelc/Development/opensource/earn_it/Earnit/Point.m277572627#277572627#0(462"In file included from /Users/michaelc/Development/opensource/earn_it/Earnit/Point.m:9:/Users/michaelc/Development/opensource/earn_it/Earnit/Point.h:14: error: 'Point' redeclared as different kind of symbol/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/MacTypes.h:522: error: previous declaration of 'Point'/Users/michaelc/Development/opensource/earn_it/Earnit/Point.h:15: error: redefinition of 'struct Point'3(4@46"'Point' redeclared as different kind of symbol277572627#87#120#2(7@83"In file included from /Users/michaelc/Development/opensource/earn_it/Earnit/Point.m277572627#18446744073709551615#0#0(6@61"/Users/michaelc/Development/opensource/earn_it/Earnit/Point.m277531744#9#0#9#0#0"0(13@111"'Point' redeclared as different kind of symbol in /Users/michaelc/Development/opensource/earn_it/Earnit/Point.h277572627#18446744073709551615#0#0(6@61"/Users/michaelc/Development/opensource/earn_it/Earnit/Point.h277531744#14#0#14#0#0"0(6@61"/Users/michaelc/Development/opensource/earn_it/Earnit/Point.h277531744#14#0#14#0#0"0(13@31"Previous declaration of 'Point'277572627#207#151#0(6@106"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/MacTypes.h263971805#522#0#522#0#0"0(4@30"Redefinition of 'struct Point'277572627#358#104#0(6@61"/Users/michaelc/Development/opensource/earn_it/Earnit/Point.h277531744#15#0#15#0#19"redefinition of '*'0(0#0#61"/Users/michaelc/Development/opensource/earn_it/Earnit/Point.m4300885448#2004"    cd /Users/michaelc/Development/opensource/earn_it/Earnit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Earnit-generated-files.hmap -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Earnit-own-target-headers.hmap -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Earnit-all-target-headers.hmap -iquote /Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Earnit-project-headers.hmap -F/Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator/include -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/DerivedSources/i386 -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/DerivedSources -include /var/folders/ZA/ZAm5NPjrFj4FEWVCm4z9SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Earnit_Prefix-gezpheodqzopyqcfwhpqfwhrdgjr/Earnit_Prefix.pch -c /Users/michaelc/Development/opensource/earn_it/Earnit/Point.m -o /Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Objects-normal/i386/Point.o1#
+
+CCompileC build/Earnit.build/Debug-iphonesimulator/Earnit.build/Objects-normal/i386/RootViewController.o /Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277572627.578294
+e277572627.663682
+r0
+xCompileC
+xbuild/Earnit.build/Debug-iphonesimulator/Earnit.build/Objects-normal/i386/RootViewController.o
+x/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m:108: error: expected ')' before 'User'
+o/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m: In function '-[RootViewController configureCell:withUser:]':
+o/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m:109: error: request for member 'name' in something not a structure or union
+o/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m:110: error: request for member 'name' in something not a structure or union
+o/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':
+o/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m:125: error: 'User' undeclared (first use in this function)
+o/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m:125: error: (Each undeclared identifier is reported only once
+o/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m:125: error: for each function it appears in.)
+o/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m:125: error: 'user' undeclared (first use in this function)
+o{standard input}:392:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_25" minus "L00000000005$pb"
+o{standard input}:392:symbol: "L_OBJC_SELECTOR_REFERENCES_25" can't be undefined in a subtraction expression
+o{standard input}:383:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_24" minus "L00000000005$pb"
+o{standard input}:383:symbol: "L_OBJC_SELECTOR_REFERENCES_24" can't be undefined in a subtraction expression
+o{standard input}:376:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000005$pb"
+o{standard input}:376:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:346:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000004$pb"
+o{standard input}:346:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
+o{standard input}:340:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000004$pb"
+o{standard input}:340:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:297:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000003$pb"
+o{standard input}:297:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression
+o{standard input}:293:non-relocatable subtraction expression, "L_OBJC_CLASS_RootViewController" minus "L00000000003$pb"
+o{standard input}:293:symbol: "L_OBJC_CLASS_RootViewController" can't be undefined in a subtraction expression
+o{standard input}:262:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000002$pb"
+o{standard input}:262:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+o{standard input}:256:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000002$pb"
+o{standard input}:256:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression
+o{standard input}:247:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000002$pb"
+o{standard input}:247:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression
+o{standard input}:238:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000002$pb"
+o{standard input}:238:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:232:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000002$pb"
+o{standard input}:232:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:229:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_2" minus "L00000000002$pb"
+o{standard input}:229:symbol: "L_OBJC_CLASS_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:217:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000002$pb"
+o{standard input}:217:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+o{standard input}:211:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000002$pb"
+o{standard input}:211:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+o{standard input}:207:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_1" minus "L00000000002$pb"
+o{standard input}:207:symbol: "L_OBJC_CLASS_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:200:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000002$pb"
+o{standard input}:200:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression
+o{standard input}:194:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000002$pb"
+o{standard input}:194:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:184:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000002$pb"
+o{standard input}:184:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+o{standard input}:136:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000001$pb"
+o{standard input}:136:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+o{standard input}:130:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"
+o{standard input}:130:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:123:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"
+o{standard input}:123:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:114:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"
+o{standard input}:114:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:108:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000001$pb"
+o{standard input}:108:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:97:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:97:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:94:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+o{standard input}:94:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:88:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:88:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:85:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:85:symbol: "L_OBJC_CLASS_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:78:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:78:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:72:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000001$pb"
+o{standard input}:72:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:65:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000001$pb"
+o{standard input}:65:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+o{standard input}:58:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:58:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:54:non-relocatable subtraction expression, "L_OBJC_CLASS_RootViewController" minus "L00000000001$pb"
+o{standard input}:54:symbol: "L_OBJC_CLASS_RootViewController" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_RootViewController
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_22
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_23
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_24
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_25
+lSLF07#2@90"Compile /Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m277572627#277572627#0(10988"/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m:108: error: expected ')' before 'User'/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m: In function '-[RootViewController configureCell:withUser:]':/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m:109: error: request for member 'name' in something not a structure or union/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m:110: error: request for member 'name' in something not a structure or union/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m:125: error: 'User' undeclared (first use in this function)/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m:125: error: (Each undeclared identifier is reported only once/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m:125: error: for each function it appears in.)/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m:125: error: 'user' undeclared (first use in this function){standard input}:392:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_25" minus "L00000000005$pb"{standard input}:392:symbol: "L_OBJC_SELECTOR_REFERENCES_25" can't be undefined in a subtraction expression{standard input}:383:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_24" minus "L00000000005$pb"{standard input}:383:symbol: "L_OBJC_SELECTOR_REFERENCES_24" can't be undefined in a subtraction expression{standard input}:376:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000005$pb"{standard input}:376:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:346:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000004$pb"{standard input}:346:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:340:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000004$pb"{standard input}:340:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:297:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000003$pb"{standard input}:297:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression{standard input}:293:non-relocatable subtraction expression, "L_OBJC_CLASS_RootViewController" minus "L00000000003$pb"{standard input}:293:symbol: "L_OBJC_CLASS_RootViewController" can't be undefined in a subtraction expression{standard input}:262:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000002$pb"{standard input}:262:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:256:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000002$pb"{standard input}:256:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression{standard input}:247:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000002$pb"{standard input}:247:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression{standard input}:238:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000002$pb"{standard input}:238:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:232:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000002$pb"{standard input}:232:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:229:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_2" minus "L00000000002$pb"{standard input}:229:symbol: "L_OBJC_CLASS_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:217:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000002$pb"{standard input}:217:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:211:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000002$pb"{standard input}:211:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression{standard input}:207:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_1" minus "L00000000002$pb"{standard input}:207:symbol: "L_OBJC_CLASS_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:200:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000002$pb"{standard input}:200:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression{standard input}:194:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000002$pb"{standard input}:194:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:184:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000002$pb"{standard input}:184:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression{standard input}:136:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000001$pb"{standard input}:136:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:130:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"{standard input}:130:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:123:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"{standard input}:123:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:114:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"{standard input}:114:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:108:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000001$pb"{standard input}:108:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:97:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:97:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:94:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"{standard input}:94:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:88:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:88:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:85:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_0" minus "L00000000001$pb"{standard input}:85:symbol: "L_OBJC_CLASS_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:78:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:78:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:72:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000001$pb"{standard input}:72:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:65:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000001$pb"{standard input}:65:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression{standard input}:58:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:58:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:54:non-relocatable subtraction expression, "L_OBJC_CLASS_RootViewController" minus "L00000000001$pb"{standard input}:54:symbol: "L_OBJC_CLASS_RootViewController" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_RootViewController{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_22{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_23{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_24{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_255(4@26"Expected ')' before 'User'277572627#0#122#0(6@82"/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m277532845#108#0#108#0#19"expected * before *0(4@63"Request for member 'name' in something not a structure or union277572627#267#159#0(6@82"/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m277532845#109#0#109#0#0"0(4@63"Request for member 'name' in something not a structure or union277572627#426#159#0(6@82"/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m277532845#110#0#110#0#0"0(4@46"'User' undeclared (first use in this function)277572627#739#142#0(6@82"/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m277532845#125#0#125#0#43"'*' undeclared (first use in this function)0(4@46"'user' undeclared (first use in this function)277572627#1155#142#0(6@82"/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m277532845#125#0#125#0#43"'*' undeclared (first use in this function)0(0#0#82"/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m4300885448#2038"    cd /Users/michaelc/Development/opensource/earn_it/Earnit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Earnit-generated-files.hmap -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Earnit-own-target-headers.hmap -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Earnit-all-target-headers.hmap -iquote /Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Earnit-project-headers.hmap -F/Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator/include -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/DerivedSources/i386 -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/DerivedSources -include /var/folders/ZA/ZAm5NPjrFj4FEWVCm4z9SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Earnit_Prefix-gezpheodqzopyqcfwhpqfwhrdgjr/Earnit_Prefix.pch -c /Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m -o /Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Objects-normal/i386/RootViewController.o1#
+
+CCompileC build/Earnit.build/Debug-iphonesimulator/Earnit.build/Objects-normal/i386/User.o /Users/michaelc/Development/opensource/earn_it/Earnit/User.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277572627.712815
+e277572627.781853
+r0
+xCompileC
+xbuild/Earnit.build/Debug-iphonesimulator/Earnit.build/Objects-normal/i386/User.o
+x/Users/michaelc/Development/opensource/earn_it/Earnit/User.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/michaelc/Development/opensource/earn_it/Earnit/User.m:9:
+o/Users/michaelc/Development/opensource/earn_it/Earnit/User.h:11: error: 'Point' redeclared as different kind of symbol
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/MacTypes.h:522: error: previous declaration of 'Point'
+oIn file included from /Users/michaelc/Development/opensource/earn_it/Earnit/User.m:11:
+o/Users/michaelc/Development/opensource/earn_it/Earnit/Point.h:15: error: redefinition of 'struct Point'
+lSLF07#2@68"Compile /Users/michaelc/Development/opensource/earn_it/Earnit/User.m277572627#277572627#0(547"In file included from /Users/michaelc/Development/opensource/earn_it/Earnit/User.m:9:/Users/michaelc/Development/opensource/earn_it/Earnit/User.h:11: error: 'Point' redeclared as different kind of symbol/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/MacTypes.h:522: error: previous declaration of 'Point'In file included from /Users/michaelc/Development/opensource/earn_it/Earnit/User.m:11:/Users/michaelc/Development/opensource/earn_it/Earnit/Point.h:15: error: redefinition of 'struct Point'3(4@46"'Point' redeclared as different kind of symbol277572627#86#119#2(7@82"In file included from /Users/michaelc/Development/opensource/earn_it/Earnit/User.m277572627#18446744073709551615#0#0(6@60"/Users/michaelc/Development/opensource/earn_it/Earnit/User.m277531744#9#0#9#0#0"0(13@110"'Point' redeclared as different kind of symbol in /Users/michaelc/Development/opensource/earn_it/Earnit/User.h277572627#18446744073709551615#0#0(6@60"/Users/michaelc/Development/opensource/earn_it/Earnit/User.h277531744#11#0#11#0#0"0(6@60"/Users/michaelc/Development/opensource/earn_it/Earnit/User.h277531744#11#0#11#0#0"0(13@31"Previous declaration of 'Point'277572627#205#151#0(6@106"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/MacTypes.h263971805#522#0#522#0#0"0(4@30"Redefinition of 'struct Point'277572627#443#104#2(7@82"In file included from /Users/michaelc/Development/opensource/earn_it/Earnit/User.m277572627#18446744073709551615#0#0(6@60"/Users/michaelc/Development/opensource/earn_it/Earnit/User.m277531744#11#0#11#0#0"0(13@95"Redefinition of 'struct Point' in /Users/michaelc/Development/opensource/earn_it/Earnit/Point.h277572627#18446744073709551615#0#0(6@61"/Users/michaelc/Development/opensource/earn_it/Earnit/Point.h277531744#15#0#15#0#0"0(6@61"/Users/michaelc/Development/opensource/earn_it/Earnit/Point.h277531744#15#0#15#0#19"redefinition of '*'0(0#0#60"/Users/michaelc/Development/opensource/earn_it/Earnit/User.m4300885448#2002"    cd /Users/michaelc/Development/opensource/earn_it/Earnit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Earnit-generated-files.hmap -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Earnit-own-target-headers.hmap -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Earnit-all-target-headers.hmap -iquote /Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Earnit-project-headers.hmap -F/Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator/include -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/DerivedSources/i386 -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/DerivedSources -include /var/folders/ZA/ZAm5NPjrFj4FEWVCm4z9SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Earnit_Prefix-gezpheodqzopyqcfwhpqfwhrdgjr/Earnit_Prefix.pch -c /Users/michaelc/Development/opensource/earn_it/Earnit/User.m -o /Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Objects-normal/i386/User.o1#
+
+CCompileC build/Earnit.build/Debug-iphonesimulator/Earnit.build/Objects-normal/i386/main.o /Users/michaelc/Development/opensource/earn_it/Earnit/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277572627.424218
+e277572627.578141
+r1
+xCompileC
+xbuild/Earnit.build/Debug-iphonesimulator/Earnit.build/Objects-normal/i386/main.o
+x/Users/michaelc/Development/opensource/earn_it/Earnit/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/michaelc/Development/opensource/earn_it/Earnit/main.m277572627#277572627#0(0"0(0#0#60"/Users/michaelc/Development/opensource/earn_it/Earnit/main.m4300885448#2002"    cd /Users/michaelc/Development/opensource/earn_it/Earnit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Earnit-generated-files.hmap -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Earnit-own-target-headers.hmap -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Earnit-all-target-headers.hmap -iquote /Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Earnit-project-headers.hmap -F/Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator/include -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/DerivedSources/i386 -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/DerivedSources -include /var/folders/ZA/ZAm5NPjrFj4FEWVCm4z9SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Earnit_Prefix-gezpheodqzopyqcfwhpqfwhrdgjr/Earnit_Prefix.pch -c /Users/michaelc/Development/opensource/earn_it/Earnit/main.m -o /Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/michaelc/Development/opensource/earn_it/Earnit/MainWindow.xib
+s277572621.485681
+e277572624.770212
+r1
+xCompileXIB
+x/Users/michaelc/Development/opensource/earn_it/Earnit/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib277572621#277572624#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#68"/Users/michaelc/Development/opensource/earn_it/Earnit/MainWindow.xib4300885448#524"    cd /Users/michaelc/Development/opensource/earn_it/Earnit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator/Earnit.app/MainWindow.nib /Users/michaelc/Development/opensource/earn_it/Earnit/MainWindow.xib0#
+
+CCompileXIB /Users/michaelc/Development/opensource/earn_it/Earnit/RootViewController.xib
+s277572621.496081
+e277572624.654444
+r1
+xCompileXIB
+x/Users/michaelc/Development/opensource/earn_it/Earnit/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib277572621#277572624#0(0"0(0#0#76"/Users/michaelc/Development/opensource/earn_it/Earnit/RootViewController.xib4300885448#540"    cd /Users/michaelc/Development/opensource/earn_it/Earnit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator/Earnit.app/RootViewController.nib /Users/michaelc/Development/opensource/earn_it/Earnit/RootViewController.xib0#
+
+CDataModelCompile /Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator/Earnit.app/Earnit.mom /Users/michaelc/Development/opensource/earn_it/Earnit/Earnit.xcdatamodel
+s277572627.423028
+e277572627.540642
+r1
+xDataModelCompile
+x/Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator/Earnit.app/Earnit.mom
+x/Users/michaelc/Development/opensource/earn_it/Earnit/Earnit.xcdatamodel
+lSLF07#2@80"Compile /Users/michaelc/Development/opensource/earn_it/Earnit/Earnit.xcdatamodel277572627#277572627#0(0"0(0#0#72"/Users/michaelc/Development/opensource/earn_it/Earnit/Earnit.xcdatamodel4300885448#426"    cd /Users/michaelc/Development/opensource/earn_it/Earnit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.5 /Users/michaelc/Development/opensource/earn_it/Earnit/Earnit.xcdatamodel /Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator/Earnit.app/Earnit.mom0#
+
+CGenerateDSYMFile /Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator/Earnit.app.dSYM /Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator/Earnit.app/Earnit
+r0
+
+CLd /Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator/Earnit.app/Earnit normal i386
+r0
+
+CProcessInfoPlistFile /Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator/Earnit.app/Info.plist Earnit-Info.plist
+s277572621.461886
+e277572621.485501
+r1
+xProcessInfoPlistFile
+x/Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator/Earnit.app/Info.plist
+xEarnit-Info.plist
+lSLF07#2@25"Process Earnit-Info.plist277572621#277572621#0(0"0(0#0#71"/Users/michaelc/Development/opensource/earn_it/Earnit/Earnit-Info.plist19421975263969392#521"    cd /Users/michaelc/Development/opensource/earn_it/Earnit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Earnit-Info.plist -genpkginfo /Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator/Earnit.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator/Earnit.app/Info.plist0#
+
+CProcessPCH /var/folders/ZA/ZAm5NPjrFj4FEWVCm4z9SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Earnit_Prefix-gezpheodqzopyqcfwhpqfwhrdgjr/Earnit_Prefix.pch.gch Earnit_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s277572624.770539
+e277572627.422731
+r1
+xProcessPCH
+x/var/folders/ZA/ZAm5NPjrFj4FEWVCm4z9SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Earnit_Prefix-gezpheodqzopyqcfwhpqfwhrdgjr/Earnit_Prefix.pch.gch
+xEarnit_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Earnit_Prefix.pch277572624#277572627#0(0"0(0#0#71"/Users/michaelc/Development/opensource/earn_it/Earnit/Earnit_Prefix.pch4300885448#1880"    cd /Users/michaelc/Development/opensource/earn_it/Earnit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Earnit-generated-files.hmap -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Earnit-own-target-headers.hmap -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Earnit-all-target-headers.hmap -iquote /Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/Earnit-project-headers.hmap -F/Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator/include -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/DerivedSources/i386 -I/Users/michaelc/Development/opensource/earn_it/Earnit/build/Earnit.build/Debug-iphonesimulator/Earnit.build/DerivedSources -c /Users/michaelc/Development/opensource/earn_it/Earnit/Earnit_Prefix.pch -o /var/folders/ZA/ZAm5NPjrFj4FEWVCm4z9SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Earnit_Prefix-gezpheodqzopyqcfwhpqfwhrdgjr/Earnit_Prefix.pch.gch0#
+
+CTouch /Users/michaelc/Development/opensource/earn_it/Earnit/build/Debug-iphonesimulator/Earnit.app
+r0
+

@@ -1,0 +1,57 @@
+/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m: In function '-[RootViewController insertNewUser]':
+/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m:34: error: request for member 'firstInsert' in something not a structure or union
+/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m:39: error: 'User' undeclared (first use in this function)
+/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m:39: error: (Each undeclared identifier is reported only once
+/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m:39: error: for each function it appears in.)
+/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m:39: error: 'user' undeclared (first use in this function)
+/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m:39: error: expected ']' before ';' token
+/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m:55: error: expected ';' before '}' token
+/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m: At top level:
+/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m:112: error: expected ')' before 'User'
+/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m: In function '-[RootViewController configureCell:withUser:]':
+/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m:113: error: request for member 'name' in something not a structure or union
+/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m:114: error: request for member 'name' in something not a structure or union
+/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':
+/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m:129: error: 'User' undeclared (first use in this function)
+/Users/michaelc/Development/opensource/earn_it/Earnit/Classes/RootViewController.m:129: error: 'user' undeclared (first use in this function)
+{standard input}:136:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000001$pb"
+{standard input}:136:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+{standard input}:130:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"
+{standard input}:130:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+{standard input}:123:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"
+{standard input}:123:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+{standard input}:114:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"
+{standard input}:114:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+{standard input}:108:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000001$pb"
+{standard input}:108:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+{standard input}:97:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+{standard input}:97:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+{standard input}:94:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+{standard input}:94:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+{standard input}:88:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+{standard input}:88:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+{standard input}:85:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_0" minus "L00000000001$pb"
+{standard input}:85:symbol: "L_OBJC_CLASS_REFERENCES_0" can't be undefined in a subtraction expression
+{standard input}:78:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+{standard input}:78:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+{standard input}:72:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000001$pb"
+{standard input}:72:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+{standard input}:65:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000001$pb"
+{standard input}:65:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+{standard input}:58:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+{standard input}:58:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+{standard input}:54:non-relocatable subtraction expression, "L_OBJC_CLASS_RootViewController" minus "L00000000001$pb"
+{standard input}:54:symbol: "L_OBJC_CLASS_RootViewController" can't be undefined in a subtraction expression
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_RootViewController
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_0
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
